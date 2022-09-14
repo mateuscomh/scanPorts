@@ -1,8 +1,5 @@
 # scanPorts
-Hackersec scan de portas abertas 
-
-
-Scan open ports on terminal:
+Scan open ports on terminal with python: 
 
 **need: exec permission.**
 

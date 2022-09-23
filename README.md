@@ -4,7 +4,7 @@ Scan open ports on terminal with python:
 **need: exec permission.**
 
 To call:
-python3 portscan.py {IP} 
+python3 scanPorts.py {IP} 
 
 Sample
-python3 portscan.py localhost
+python3 scanPorts.py localhost
